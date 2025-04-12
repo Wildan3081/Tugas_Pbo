@@ -1,0 +1,15 @@
+C:\Users\ADVAN\source\repos\thr\thr\bin\Debug\net8.0\thr.exe
+C:\Users\ADVAN\source\repos\thr\thr\bin\Debug\net8.0\thr.deps.json
+C:\Users\ADVAN\source\repos\thr\thr\bin\Debug\net8.0\thr.runtimeconfig.json
+C:\Users\ADVAN\source\repos\thr\thr\bin\Debug\net8.0\thr.dll
+C:\Users\ADVAN\source\repos\thr\thr\bin\Debug\net8.0\thr.pdb
+C:\Users\ADVAN\source\repos\thr\thr\obj\Debug\net8.0\thr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADVAN\source\repos\thr\thr\obj\Debug\net8.0\thr.AssemblyInfoInputs.cache
+C:\Users\ADVAN\source\repos\thr\thr\obj\Debug\net8.0\thr.AssemblyInfo.cs
+C:\Users\ADVAN\source\repos\thr\thr\obj\Debug\net8.0\thr.csproj.CoreCompileInputs.cache
+C:\Users\ADVAN\source\repos\thr\thr\obj\Debug\net8.0\thr.dll
+C:\Users\ADVAN\source\repos\thr\thr\obj\Debug\net8.0\refint\thr.dll
+C:\Users\ADVAN\source\repos\thr\thr\obj\Debug\net8.0\thr.pdb
+C:\Users\ADVAN\source\repos\thr\thr\obj\Debug\net8.0\thr.genruntimeconfig.cache
+C:\Users\ADVAN\source\repos\thr\thr\obj\Debug\net8.0\ref\thr.dll
+C:\Users\ADVAN\source\repos\thr\thr\obj\Debug\net8.0\thr.sourcelink.json
