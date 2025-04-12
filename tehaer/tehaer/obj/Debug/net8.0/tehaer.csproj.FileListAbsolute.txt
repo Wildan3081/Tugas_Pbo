@@ -1,0 +1,14 @@
+C:\Users\ADVAN\source\repos\tehaer\tehaer\bin\Debug\net8.0\tehaer.exe
+C:\Users\ADVAN\source\repos\tehaer\tehaer\bin\Debug\net8.0\tehaer.deps.json
+C:\Users\ADVAN\source\repos\tehaer\tehaer\bin\Debug\net8.0\tehaer.runtimeconfig.json
+C:\Users\ADVAN\source\repos\tehaer\tehaer\bin\Debug\net8.0\tehaer.dll
+C:\Users\ADVAN\source\repos\tehaer\tehaer\bin\Debug\net8.0\tehaer.pdb
+C:\Users\ADVAN\source\repos\tehaer\tehaer\obj\Debug\net8.0\tehaer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADVAN\source\repos\tehaer\tehaer\obj\Debug\net8.0\tehaer.AssemblyInfoInputs.cache
+C:\Users\ADVAN\source\repos\tehaer\tehaer\obj\Debug\net8.0\tehaer.AssemblyInfo.cs
+C:\Users\ADVAN\source\repos\tehaer\tehaer\obj\Debug\net8.0\tehaer.csproj.CoreCompileInputs.cache
+C:\Users\ADVAN\source\repos\tehaer\tehaer\obj\Debug\net8.0\tehaer.dll
+C:\Users\ADVAN\source\repos\tehaer\tehaer\obj\Debug\net8.0\refint\tehaer.dll
+C:\Users\ADVAN\source\repos\tehaer\tehaer\obj\Debug\net8.0\tehaer.pdb
+C:\Users\ADVAN\source\repos\tehaer\tehaer\obj\Debug\net8.0\tehaer.genruntimeconfig.cache
+C:\Users\ADVAN\source\repos\tehaer\tehaer\obj\Debug\net8.0\ref\tehaer.dll
